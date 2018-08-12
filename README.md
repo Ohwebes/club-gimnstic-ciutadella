@@ -1,3 +1,2 @@
 # CLUB GIMNÀSTIC CIUTADELLA
 Con nuestra nueva APP te mantendremos al tanto de todas las novedades, horarios de clases, actividades especiales, etc...
-# club-gimnstic-ciutadella
